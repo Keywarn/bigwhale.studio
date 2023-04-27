@@ -4,7 +4,6 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
-publishDir = "/docs"
 
 [params]
 fancyTitle = "Keydoo Software" # title for frontpage, may include image
