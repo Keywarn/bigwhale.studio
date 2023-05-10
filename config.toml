@@ -9,7 +9,7 @@ theme = "spectral"
 fancyTitle = "Keydoo Software" # title for frontpage, may include image
 copyright = "Keydoo Software"
 # description = '<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.<br />Ported to <a href="//gohugo.io">Hugo</a> by Simon Bruder.'
-startbuttonText = "Activate"
+startbuttonText = "Wishlist Now"
 startbuttonLink = "#"
 body_is_markdown = true
 #custom_css = "foo.css"
@@ -30,8 +30,9 @@ title = "Posts"
 
 [params.one]
 enable = true
-title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+title = 'STRAPLINE Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
 body = '''
+Subtitle/wokring on currently
 Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
 fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
 '''
@@ -55,14 +56,14 @@ label = "Dolor"
 enable = true
 
 [[params.two.section]]
-img = "img/pic01.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "img/profile/keywarn.jpg"
+title = 'Keywarn<br />Charlie Haslam'
+body = 'Technical lead'
 
 [[params.two.section]]
-img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "img/profile/ipidoo.jpg"
+title = 'Ipidoo<br />Laurie Haslam'
+body = 'Art and Design lead'
 
 [[params.two.section]]
 img = "img/pic03.jpg"
