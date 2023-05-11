@@ -1,27 +1,27 @@
 baseURL = "https://keydoo-software.com"
 title = "Keydoo Software"
-languageCode = "en-us"
+languageCode = "en-uk"
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "Keydoo Software" # title for frontpage, may include image
+fancyTitle = "Game Name" # title for frontpage, may include image
 copyright = "Keydoo Software"
-# description = '<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.<br />Ported to <a href="//gohugo.io">Hugo</a> by Simon Bruder.'
+description = 'Keydoo Software'
 startbuttonText = "Wishlist Now"
 startbuttonLink = "#"
 body_is_markdown = true
+#images = ["socials"]
 #custom_css = "foo.css"
-#images = ["path_to_social_image_for_link_previews.jpg"]
 
 [[params.menu.main]]
 url = '/'
 title = "Main"
 
-[[params.menu.main]]
-url = '/posts/'
-title = "Posts"
+# [[params.menu.main]]
+# url = '/posts/'
+# title = "Posts"
 
 [taxonomies]
     tag = "tags"
@@ -56,12 +56,12 @@ label = "Dolor"
 enable = true
 
 [[params.two.section]]
-img = "img/profile/keywarn.jpg"
+img = "images/profile/keywarn.jpg"
 title = 'Keywarn<br />Charlie Haslam'
 body = 'Technical lead'
 
 [[params.two.section]]
-img = "img/profile/ipidoo.jpg"
+img = "images/profile/ipidoo.jpg"
 title = 'Ipidoo<br />Laurie Haslam'
 body = 'Art and Design lead'
 
