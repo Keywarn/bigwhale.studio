@@ -6,7 +6,7 @@ paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "Game Name" # title for frontpage, may include image
+fancyTitle = "Undergrove"
 copyright = "Keydoo Software"
 description = 'Keydoo Software'
 startbuttonText = "Wishlist Now"
