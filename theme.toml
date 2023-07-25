@@ -27,10 +27,5 @@ features = [
 ]
 
 [author]
-name = "Zeon Studio"
-homepage = "https://zeon.studio"
-
-[original]
-author = "Zeon Studio"
-homepage = "https://zeon.studio"
-repo = "https://github.com/zeon-studio/themeplate"
+name = "Keydoo Software"
+homepage = "https://www.keydoo-software.com"
