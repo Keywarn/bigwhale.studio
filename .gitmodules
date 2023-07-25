@@ -1,3 +1,3 @@
-[submodule "themes/spectral"]
-	path = themes/spectral
-	url = https://github.com/Keywarn/spectral
+[submodule "themes/hugoplate"]
+	path = themes/hugoplate
+	url = https://github.com/zeon-studio/hugoplate.git
