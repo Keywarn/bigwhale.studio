@@ -1,33 +1,32 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
-title: Eternity # todo: change site name.
+baseURL: https://www.keydoo-software.com
+title: Keydoo Software
 defaultContentLanguage: 'en'
 theme: eternity
-googleAnalytics: '' # todo: set your analytics id.
+googleAnalytics: 'G-JRGGJ7X1G7'
 
 params:
   image: /images/banner.png
-  logo: logo.png # todo: add your custom logo to static/
-  subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
-  copyright: All rights reserved. # todo: set your copyright type.
-  author: Lovely Author # todo: set your full name.
-  dontShowSource: false # please, do not do this :)
+  logo: logo-square.png
+  subtitle: Two brothers creating indie titles.
+  copyright: All rights reserved.
+  author: Keydoo Software # todo: set your full name.
+  dontShowSource: false
   dontShowLogo: false # If you want to hide the logo, this is what you set to true
   portfolio:
     columns:
       desktop:
-        default: 3
-      mobile:
         default: 2
+      mobile:
+        default: 1
   socials:
     # todo: add your social accounts.
     - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
+      url: 'mailto:team@keydoo-software.com'
       landing: true
-  # homepage: "/work" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
+  homepage: "/games"
   specialPages:
-    - work
-    - archive
-  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+    - games
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   plausible: '' # todo: set your plausible id.
   disableWelcomePageBackground: false # disables the background image on the homepage
   disableRadius: false
@@ -46,9 +45,8 @@ taxonomies:
 permalinks:
   work: ":filename/"
 
-# todo: uncomment menu.main array after you create contents.
-# menu:
-#   main:
-#     - name: work
-#       url: /work/
-#       weight: 1
+menu:
+  main:
+    - name: Games
+      url: /games/
+      weight: 1
