@@ -25,7 +25,7 @@ params:
       landing: true
   homepage: "/games"
   specialPages:
-    - games
+    - Games
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
   plausible: '' # todo: set your plausible id.
   disableWelcomePageBackground: false # disables the background image on the homepage
@@ -47,6 +47,6 @@ permalinks:
 
 menu:
   main:
-    - name: Games
+    - name: games
       url: /games/
       weight: 1

@@ -1,6 +1,6 @@
 ---
-title: Games
-url: games
+title: games
+url: Games
 ---
 
 <div align="center">

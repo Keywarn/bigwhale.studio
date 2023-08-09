@@ -1,10 +1,13 @@
 ---
-weight: 3
+weight: 1
 images:
 - https://source.unsplash.com/random?bunny&22014
-title: bunny 1
-date: 2022-07-23
+title: Neon Shift
+date:
+hideExif: true
+hidedate: true
 tags:
+ - games
 # - archive # all posts
 # - bunny
 # - nature
