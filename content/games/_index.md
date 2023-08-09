@@ -1,10 +1,10 @@
 ---
 title: games
-url: Games
+url: games
 ---
 
 <div align="center">
-	<p>
+	<h1>
         Our Games
-	</p>
+	</h1>
 </div>
