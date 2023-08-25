@@ -3,7 +3,7 @@ weight: 1
 images:
 - /images/9ltd/9ltd_icon.png
 title: 9 Lives To Die
-date: 20/08/2023
+date: 
 hideExif: true
 hidedate: true
 tags:

@@ -1,9 +1,9 @@
 ---
-weight: 1
+weight: 5
 images:
 - /images/neon/neon_icon.png
 title: Neon Shift
-date: 21/08/2023
+date: 
 hideExif: true
 hidedate: true
 tags:
