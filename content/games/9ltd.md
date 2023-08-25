@@ -19,6 +19,6 @@ tags:
 
 We also produced a [hypothetical design document](https://keywarn.github.io/9LivesToDie/) for further development, but aren't currently working on the project - maybe one day it'll make a return!
 
-[-> Play 9 Lives to Die](https://keywarn.itch.io/9-lives-to-die)
+[Play 9 Lives to Die](https://keywarn.itch.io/9-lives-to-die)
 
 

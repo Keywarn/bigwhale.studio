@@ -19,6 +19,6 @@ Neon Shift is a speed-running focused platformer with a twist! Run as fast as yo
 
 Neon Shift was originally created for the 2023 GMTK game Jam with the theme ‘Roles Reversed’ in mind. We are currently working on expanding and refining the game with the goal of a more substantial steam release, which will include multiple official levels and a community-driven level editor.
 
-[-> You can play the demo right now on itch.io!](https://keywarn.itch.io/neon-shift)
+[You can play the demo right now on itch.io!](https://keywarn.itch.io/neon-shift)
 
 
