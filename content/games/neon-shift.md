@@ -1,9 +1,9 @@
 ---
 weight: 1
 images:
-- https://source.unsplash.com/random?bunny&22014
+- /images/neon/neon_icon.png
 title: Neon Shift
-date:
+date: 21/08/2023
 hideExif: true
 hidedate: true
 tags:
@@ -13,20 +13,12 @@ tags:
 # - nature
 ---
 
-## Markdown
 
-You can use **Markdown** format to write **your story**.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid! 
+Neon Shift is a speed-running focused platformer with a twist! Run as fast as you can along the rooftops of Neon City to escape... but who are you running from? Get your time as low as you can and aim for one of the top spots on the leaderboard!
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+Neon Shift was originally created for the 2023 GMTK game Jam with the theme ‘Roles Reversed’ in mind. We are currently working on expanding and refining the game with the goal of a more substantial steam release, which will include multiple official levels and a community-driven level editor.
 
-### Subtitle
+[-> You can play the demo right now on itch.io!](https://keywarn.itch.io/neon-shift)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
 
-Some list
-
-1. A b c
-2. A b c
-3. A b c 
