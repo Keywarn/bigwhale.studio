@@ -45,3 +45,6 @@ menu:
     - name: Games
       url: /games/
       weight: 1
+    - name: About Us
+      url: /about/
+      weight: 5
