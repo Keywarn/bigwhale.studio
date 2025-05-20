@@ -1,5 +1,5 @@
-baseURL: https://www.keydoo-software.com
-title: Keydoo Software
+baseURL: https://www.bigwhale.studio
+title: Big Whale
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: 'G-JRGGJ7X1G7'
@@ -9,7 +9,7 @@ params:
   logo: logo-square.png
   subtitle: Two brothers creating indie titles.
   copyright: All rights reserved.
-  author: Keydoo Software # todo: set your full name.
+  author: Big Whale # todo: set your full name.
   dontShowSource: false
   dontShowLogo: false # If you want to hide the logo, this is what you set to true
   portfolio:
@@ -21,7 +21,7 @@ params:
   socials:
     # todo: add your social accounts.
     - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:team@keydoo-software.com'
+      url: 'mailto:team@bigwhale.studio'
       landing: true
   homepage: "/games"
   bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
